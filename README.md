@@ -1,7 +1,7 @@
-
 # rtop
 
 [![Join the chat at https://gitter.im/rapidloop/rtop](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/rapidloop/rtop?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Frtop.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Frtop?ref=badge_shield)
 
 `rtop` is a remote system monitor. It connects over SSH to a remote system
 and displays vital system metrics (CPU, disk, memory, network). No special
@@ -31,3 +31,7 @@ Pull requests welcome. Keep it simple.
 
 ## changelog
 * 9-May-2015: first public release
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Frtop.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Frtop?ref=badge_large)
